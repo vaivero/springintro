@@ -1,0 +1,13 @@
+resources:
+  harvesters: 10
+  ornithopters: 5
+  workers: 32
+  warehouse:
+    - total: 60000
+      location: ARRAKIN
+
+spice:
+  available: 100
+  needed: 180000
+
+strategy: MAXIMIZE
